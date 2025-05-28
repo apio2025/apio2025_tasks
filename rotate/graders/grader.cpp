@@ -120,6 +120,9 @@ void rotate(std::vector<int> t, int x){
     
     std::sort(t.begin(), t.end());
 
+    x %= 50000;
+    if (x < 0) x += 50000;
+
     for (int i = 0; i < k; i++){
         if (t[i] < 0 || t[i] >= (int) v.size()){
             exit_mes("Invalid index");
