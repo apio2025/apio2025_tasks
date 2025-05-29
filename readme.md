@@ -1,5 +1,7 @@
 # APIO 2025
 
+## Tasks
+
 These are the limits used during the main competition:
 
 | Task | Name | Time Limit | Memory Limit |
