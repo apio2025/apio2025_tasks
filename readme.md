@@ -13,3 +13,12 @@ The authors of problems:
 - "Hack!" &mdash; Dilhan Salgado (USA), Matthew Roh (South Korea)
 - "Permutation Game" &mdash; Ashley Aragorn Khoo, Tan Si Jie (Singapore)
 - "Rotating Lines" &mdash; Kibeom Kim (South Korea)
+
+## Ranking
+
+Official ranking (Top 6 from official Asia-Pacific countries):
+* [https://apio2025.uz/ranking](https://apio2025.uz/ranking)
+
+Unofficial ranking (everyone):
+* [https://apio2025.github.io/apio2025_ranking](https://apio2025.github.io/apio2025_ranking)
+
